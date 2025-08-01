@@ -8,7 +8,11 @@ import numpy as np
 from plotly.subplots import make_subplots
 
 # Enable cache
-fastf1.Cache.enable_cache('C:/Users/rohan/Documents/fastf1_cache')
+import os
+
+cache_dir = "./fastf1_cache"
+os.makedirs(cache_dir, exist_ok=True)
+fastf1.Cache.enable_cache(cache_dir)
 
 st.set_page_config(layout="wide")
 st.title("🏎️ F1 Race Analysis Dashboard")
