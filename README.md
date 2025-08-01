@@ -48,4 +48,14 @@
   - Provided open-sourced F1 data
 - **ChatGPT**
   - Assistance with code structure (e.g.,
--
+- **GitHub Copilot**
+  - Helped resolving code errors and improving syntax
+
+## Future Improvements
+- Add **live session pace evolution plots**
+  - Tracks cars through the circuit live and displays data
+- Include a **driver consistency/performance score** using variance in lap times and overall race weekend performance
+- Create a **pit stop strategy simulator**
+  - Create a simulator to analyze when the best time to pit stop is
+- Create **predictive lap times**
+  - Look at historical data and simulator data to predict lap times for certain teams based on degradation, weather, tire strategy, etc.
