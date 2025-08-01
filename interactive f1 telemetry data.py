@@ -22,7 +22,7 @@ year = st.number_input("Enter Year", min_value=2018, max_value=2025, value=2025)
 round_input = st.text_input("Enter Grand Prix (name or round number)", "Monaco")
 session_type = st.selectbox("Session Type", ["Q", "R"])
 compare_mode = st.checkbox("Compare Two Drivers")
-predict_mode = st.checkbox("Enable Predictive Mode (Lap Time Degradation Analysis for Singular Driver)")
+analysis_mode = st.checkbox("Race and Qualifying Analysis (Singular Driver)")
 
 # If compare mode 
 if compare_mode:
@@ -299,7 +299,7 @@ if st.button("Analyze"):
                 # Predictive Mode
                 # Predicting the next few laps after race ends based on degradation
                 with tabs[4]:
-                    if predict_mode:
+                    if analysis_mode:
                         from sklearn.ensemble import RandomForestRegressor
                         from sklearn.preprocessing import LabelEncoder
 
