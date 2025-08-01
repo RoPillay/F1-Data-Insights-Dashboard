@@ -57,5 +57,6 @@
 - Include a **driver consistency/performance score** using variance in lap times and overall race weekend performance
 - Create a **pit stop strategy simulator**
   - Create a simulator to analyze when the best time to pit stop is
-- Create **predictive lap times**
-  - Look at historical data and simulator data to predict lap times for certain teams based on degradation, weather, tire strategy, etc.
+- Create **predictive race strategies**
+  - Look at historical data and simulator data to predict lap times based on degradation, weather, tire strategy, etc.
+  - Based on that determine optimal race strategies for tire compounds, car setup, pit stops, etc. before a race weekend
