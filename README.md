@@ -47,9 +47,9 @@
 - **[FastF1 Library](https://github.com/theOehrly/Fast-F1)**
   - Provided open-sourced F1 data
 - **ChatGPT**
-  - Assistance with code structure (e.g.,
+  - Assistance with code structure (e.g. recommending tabs, RandomForest help)
 - **GitHub Copilot**
-  - Helped resolving code errors and improving syntax
+  - Helped resolving code errors and improving syntax (e.g. debugging caching errors, efficient pandas merging)
 
 ## Future Improvements
 - Add **live session pace evolution plots**
