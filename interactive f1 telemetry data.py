@@ -15,7 +15,7 @@ os.makedirs(cache_dir, exist_ok=True)
 fastf1.Cache.enable_cache(cache_dir)
 
 st.set_page_config(layout="wide")
-st.title("🏎️ F1 Race Analysis Dashboard")
+st.title("🏎️ F1 Data Insights Dashboard")
 st.markdown("##### *Author: Rohan Pillay*")
 
 # Inputs
@@ -379,3 +379,4 @@ if st.button("Analyze"):
 
     except Exception as e:
         st.error(f"Error loading data: {e}")
+
