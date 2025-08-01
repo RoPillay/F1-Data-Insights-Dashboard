@@ -1,5 +1,5 @@
 # Interactive F1 Race Data Dashboard 
-**See it in Action:** [Launch on Streamlit](https://f1-race-data-dashboard-au2bcs7lvdgrsxbatukqtq.streamlit.app/)
+**See it in Action:** [Launch on Streamlit](https://f1-data-insights-dashboard-2vzi6vwbfddhuqkzqbspqo.streamlit.app/)
 
 ## Features
 - **Session Overview**
@@ -32,7 +32,7 @@
 
 ## How to Use
 1. **Click the live app link:**
-   [Open the Dashboard]((https://f1-race-data-dashboard-au2bcs7lvdgrsxbatukqtq.streamlit.app/)
+   [Open the Dashboard](https://f1-data-insights-dashboard-2vzi6vwbfddhuqkzqbspqo.streamlit.app/)
 2. **Select a race session:**
    - Select year (2018-present), round (number or name), Session type (Qualifying or Race)
 3. **Choose one or two drivers** to compare and view telemetry data
