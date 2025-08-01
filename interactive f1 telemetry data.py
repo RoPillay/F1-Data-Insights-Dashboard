@@ -16,6 +16,7 @@ fastf1.Cache.enable_cache(cache_dir)
 
 st.set_page_config(layout="wide")
 st.title("🏎️ F1 Race Analysis Dashboard")
+st.markdown("##### *Author: Rohan Pillay*")
 
 # Inputs
 year = st.number_input("Enter Year", min_value=2018, max_value=2025, value=2025)
