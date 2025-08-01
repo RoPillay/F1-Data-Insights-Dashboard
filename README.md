@@ -44,4 +44,8 @@
 - [LinkedIn:](https://www.linkedin.com/in/rohan-pillay-098902323/)
 
 ## Credits
-- - **[FastF1 Library](https://github.com/theOehrly/Fast-F1)**
+- **[FastF1 Library](https://github.com/theOehrly/Fast-F1)**
+  - Provided open-sourced F1 data
+- **ChatGPT**
+  - Assistance with code structure (e.g.,
+-
