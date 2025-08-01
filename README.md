@@ -41,7 +41,7 @@
 
 ## Author
 - Rohan Pillay UC Davis Class of 2026
-- [LinkedIn:](https://www.linkedin.com/in/rohan-pillay-098902323/)
+- [LinkedIn](https://www.linkedin.com/in/rohan-pillay-098902323/)
 
 ## Credits
 - **[FastF1 Library](https://github.com/theOehrly/Fast-F1)**
